@@ -8,8 +8,8 @@ description: >-
   with matched entries based on what you've typed.
 image: /img/home-jumbotron.jpg
 ---
+![enfant à l'école](/img/about-reinvest-profits.jpg "Ensemble c'est mieux")
+
 Netlify CMS stores content in your **GitHub**, GitLab, or Bitbucket repository. In order for this to work, it must authenticate with your Git host. In most cases that requires a server. We **have** a few options for handling this.
 
 > C'est la fête au village
->
->
