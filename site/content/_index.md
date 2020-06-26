@@ -1,7 +1,7 @@
 ---
 title: Site officiel de la commune de Préveranges
 subtitle: ' '
-image: /img/about-reinvest-profits.jpg
+image: /img/pano_20200623_203451_2.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
