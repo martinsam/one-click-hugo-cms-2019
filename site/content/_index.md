@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Site officiel de la commune de Préveranges
+subtitle: ' '
 image: /img/about-reinvest-profits.jpg
 blurb:
   heading: Why Kaldi?
