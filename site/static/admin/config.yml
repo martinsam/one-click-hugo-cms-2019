@@ -57,6 +57,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/products/_index.md"
         label: "Products Page"
         name: "products"
+        create: true
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
